@@ -174,6 +174,10 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
   being unable to set the base configuration XCConfig.  
   [Samuel Giddins](https://github.com/segiddins)
 
+* Fix lint in Xcode 7.2, it requires `-destination`.  
+  [Boris Bügling](https://github.com/neonichu)
+  [#4652](https://github.com/CocoaPods/CocoaPods/pull/4652)
+
 
 ## 0.39.0 (2015-10-09)
 
